@@ -1,38 +1,33 @@
 # suli0089_9103_tut1
-# Head 1
-## Head 2
-### Head 3
-#### Head 4
-##### Head 5
-###### Head 6
 
-My first repository for IDEA9103
+## Quiz 8
+### Imaging Technique Inspiration
 
-This is my first local change to the repo!
+I was inspired by the kaleidoscope effect from the movie *Spider-Man: No Way Home*, during the mirror dimension fight between Spider-Man and Dr. Strange. It uses repeating, symmetrical patterns that are visually appealing and intriguing. 
 
-**Bold Text**
+A kaleidoscope pattern is created when multiple reflections create repeated symmetrical patterns in rounds, which is reminiscent of Pacita Abad’s “Wheels of Fortune”. I intend to incorporate symmetrical and dynamic abstract patterns into my project. This technique is beneficial as the kaleidoscope effect creates intricate designs and enhances the complexity through symmetry and movement, creating a visually compelling and dynamic artwork.
 
-*Italic Text*
+> Image 1 of kaleidoscope effect in Spiderman
 
-- Item 1
-- Item 2
-    - Subitem 1
-    - Subitem 2
+![Image 1 of the kaleidoscope effect in Spiderman](readmeImages/Spiderman_scene_1.png)
 
-1. Item 1
-2. Item 2
-3. Item 3
+> Image 2 of kaleidoscope effect in Spiderman
 
-[Link Text](https://canvas.sydney.edu.au/courses/60108/pages/week-8-tutorial?module_item_id=2440190)
+![Image 2 of the kaleidoscope effect in Spiderman](readmeImages/Spiderman_scene_2.png)
 
-![An image of a cat](https://placekitten.com/200/300)
 
-![An image of Mona Lisa](readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
+### Coding Technique Exploration
 
-```
-function helloworld(){
-    console.log("Hello World");
-}
-```
+The coding technique that could be used is the kaleidoscope effect in this [p5.js sketch](https://editor.p5js.org/NanoDano/sketches/RcaQMowzv). This code creates a dynamic, intricate pattern with lines and symmetry. 
 
-> This is a blockquote 
+It creates a kaleidoscope effect as the lines are circularly arranged. User input enables interaction through mouse movements, as the pattern changes depending on the mouse’s position, creating an engaging experience with movement. There is also a zoom animation that scales the design, creating depth while showing intricate details of the lines. The different interactive elements enhance the visual experience, creating an interesting and lively design. 
+
+[Link to example code by NanoDano on p5.js with sketch in action](https://editor.p5js.org/NanoDano/sketches/RcaQMowzv)
+
+> Screenshot 1 of code when cursor is at the centre of the canvas
+
+![Screenshot 1 of code implementation](readmeImages/Code_screenshot_1.png)
+
+> Screenshot 2 of code when cursor is at the top left corner of the canvas
+
+![Screenshot 2 of code implementation](readmeImages/Code_screenshot_2.png)
